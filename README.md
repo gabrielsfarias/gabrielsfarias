@@ -2,8 +2,10 @@
 
 - 🌱 I’m currently learning NodeJS, Express, Javascript, Swagger
 - 👯 I’m looking to collaborate on open source, API and backend projects 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=hhttps://www.linkedin.com/in/gabrielsfarias82)](https://www.linkedin.com/in/gabrielsfarias82)
-  [![Outlook Badge](https://img.shields.io/badge/outlook--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:gabrielsfarias@outlook.com)](mailto:gabrielsfarias@outlook.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsfarias82)
+  [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielsfarias@outlook.com)
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/gabrielsfarias)
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MasJMJWQTf)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsfarias&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
