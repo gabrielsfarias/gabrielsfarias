@@ -1,8 +1,10 @@
+<div align="center">
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning NodeJS, Express, Javascript, Swagger
 - 👯 I’m looking to collaborate on open source, API and backend projects 
-
+</div>
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsfarias82)
