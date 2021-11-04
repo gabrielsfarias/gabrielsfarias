@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning NodeJS, Express, Javascript, Swagger
 - 👯 I’m looking to collaborate on open source, API and backend projects 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsfarias82)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielsfarias@outlook.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/gabrielsfarias)
